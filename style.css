@@ -42,7 +42,7 @@ span {
 
 aside {
   width: 400px;
-  background: #11316ef2;
+  background: #680f62f2;
   height: auto;
 }
 
@@ -167,8 +167,8 @@ h2 {
 }
 
 h3 {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  /* margin-top: 5px; */
+  /* margin-bottom: 5px; */
 }
 
 .description {
@@ -225,6 +225,7 @@ h3 {
 }
 
 .job-name {
+  margin-top: 5px;
   font-size: 14px;
   font-weight: 700;
 }
