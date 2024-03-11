@@ -223,7 +223,8 @@ h3 {
   font-weight: 700;
   line-height: 18px;
 }
-
+.workicon{display: flex;align-items: center;padding: 0px;}
+.workicon h3 {margin-left: 10px;}
 .job-name {
   margin-top: 5px;
   font-size: 14px;
