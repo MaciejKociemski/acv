@@ -179,7 +179,6 @@ h3 {
   text-align: justify;
 }
 
-
 .projects {
   width: 700px;
 }
@@ -223,8 +222,16 @@ h3 {
   font-weight: 700;
   line-height: 18px;
 }
-.workicon{display: flex;align-items: center;padding: 0px;}
-.workicon h3 {margin-left: 10px;}
+.workicon {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+.workicon h3 {
+  margin-left: 10px;
+}
+.workicon img {margin-left: -60px;}
+
 .job-name {
   margin-top: 5px;
   font-size: 14px;
