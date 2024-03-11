@@ -110,7 +110,12 @@ aside {
   margin-top: 30px;
   margin-left: 10px;
 }
+.borderline {
+  margin-top: 10px;
+  border-bottom: 2px solid;
+  
 
+}
 .education-block {
   margin-top: 30px;
   margin-left: 10px;
@@ -230,7 +235,9 @@ h3 {
 .workicon h3 {
   margin-left: 10px;
 }
-.workicon img {margin-left: -60px;}
+.workicon img {
+  margin-left: -60px;
+}
 
 .job-name {
   margin-top: 5px;
