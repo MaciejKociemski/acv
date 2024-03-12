@@ -1,5 +1,5 @@
 * {
-  color: rgb(65, 150, 183);
+  color: rgb(120, 126, 128);
 }
 
 body {
@@ -42,7 +42,7 @@ span {
 
 aside {
   width: 400px;
-  background: #680f62f2;
+  background: gray;
   height: auto;
 }
 
